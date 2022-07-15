@@ -1,0 +1,27 @@
+{
+  "name": "leavesystem-api",
+  "version": "1.0.0",
+  "description": "\"Leave Api\" is one of a project of \"Moral HRMS\" thsi api will send data to firebase and store day off of the employees",
+  "main": "main.js",
+  "scripts": {
+    "test": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deknoinarak/LeaveAPI.git"
+  },
+  "keywords": [
+    "dayoff",
+    "leave",
+    "api",
+    "rest-api",
+    "moral-hrms",
+    "firebase"
+  ],
+  "author": "Deknoinarak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Deknoinarak/LeaveAPI/issues"
+  },
+  "homepage": "https://github.com/Deknoinarak/LeaveAPI#readme"
+}
